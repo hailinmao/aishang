@@ -91,6 +91,39 @@
       "changeable": 1
     },
      {
+      "key": "荐片",
+      "name": "🌹文玉🌹｜荐片",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://fanty.run.goorm.site/ext/jp.js"
+    },
+    {
+      "key": "红牛资源",
+      "name": "🎀红牛┃采集",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]
+    },
+     {
       "key": "49zy",
       "name": "49Z｜影视",
       "type": 3,
@@ -133,18 +166,11 @@
         "其他片",
         "体育赛事",
         "海外剧"
-      ]
+      ],
+      "jar": "https://agit.ai/leevi/PG/raw/branch/master/jar/spider.jar;md5;d1fa24b46f218f455bc3f4b948fd457e"
       
      }
      ,
-    {
-      "key": "drpy_js_纽约影院",
-      "name": "影视 | 纽约影院[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/纽约影院.js",
-      "jar": "https://gitcode.net/u012349622/js/-/raw/master/jar/f.jar?inline=false"
-    },
     {
       "key": "火狐",
       "name": "🦊茶杯狐",
