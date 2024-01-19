@@ -713,7 +713,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://d.kstore.space/download/5872/lives/xm/吾爱戏曲.json"
+            "ext": "./lib/吾爱戏曲.json"
     },
     {
       "key": "MTV",
