@@ -706,7 +706,6 @@
       "changeable": 0
     },
     {
-        "jar":"https://d.kstore.space/download/5872/lives/xm/spider.jar",
             "key": "吾爱戏曲",
             "name": "💕 吾爱戏曲 ",
             "type": 3,
@@ -714,7 +713,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./lib/吾爱戏曲.json"
+            "ext": "https://d.kstore.space/download/5872/lives/xm/吾爱戏曲.json"
     },
     {
       "key": "MTV",
