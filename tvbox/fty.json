@@ -72,6 +72,15 @@
       "changeable": 1
     },
     {
+            "key": "咕噜[V2]",
+            "name": "👉文玉┃咕噜",
+            "type": 3,
+            "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://drpy.cainisi.cf/js/咕噜[V2].js"
+    },
+    {
       "key": "九六",
       "name": "🎀九六┃直连",
       "type": 3,
