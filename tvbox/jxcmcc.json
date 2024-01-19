@@ -773,6 +773,16 @@
       "changeable": 0
     },
     {
+            "key": "吾爱戏曲",
+            "name": "💕 吾爱戏曲 ",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./吾爱戏曲.json"
+    },
+    {
       "key": "MTV",
       "name": "🎧明星┃MV",
       "type": 3,
