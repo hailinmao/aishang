@@ -713,7 +713,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./吾爱戏曲.json"
+            "ext": "./lib/吾爱戏曲.json"
     },
     {
       "key": "MTV",
