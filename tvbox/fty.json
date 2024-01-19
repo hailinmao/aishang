@@ -110,6 +110,16 @@
       }
     },
     {
+        "jar":"http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+      "key": "蜂鸟",
+      "name": "🕊️┃蜂鸟┃影视",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+    },
+    {
       "key": "sohu",
       "name": "🏠2K┃搜狐",
       "type": 1,
@@ -1252,6 +1262,7 @@
       "playerType": 1,
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}"
     },
+   
     {
       "name": "江西移动",
       "type": 0,
