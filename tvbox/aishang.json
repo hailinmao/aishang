@@ -1201,27 +1201,11 @@
    
 
     {
-      "name": "江西电信",
+      "name": "爱尚直播",
       "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXChinaNat.txt?ref=master",
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Fmoyu8.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 1,
-      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}"
-    },
-    {
-      "name": "江西移动",
-      "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXCMCC.txt?ref=master",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}"
-    },
-    {
-      "name": "神仙天下",
-      "type": 0,
-      "url": "http://sx.liuyun.wang:88/zb.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}"
     }
   ]
