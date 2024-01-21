@@ -1203,7 +1203,7 @@
     {
       "name": "江西电信",
       "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2FJXChinaNat.txt?ref=master",
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu8.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}"
