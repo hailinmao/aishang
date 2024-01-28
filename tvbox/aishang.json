@@ -1080,7 +1080,14 @@
     }
   ],
   "lives": [
-
+    {
+      "name": "春盈-爱尚",
+      "type": 0,
+      "url": "https://wds.ecsxs.com/230864.json",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
+    },
     {
       "name": "江西电信",
       "type": 0,
