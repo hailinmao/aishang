@@ -1,10 +1,10 @@
 {
-  "spider": "./fty.jar;md5;5543dae038ce2248e7759e9cbca295b9",
+  "spider": "./fty.jar;md5;4eec8bf0a642330662224a01636e0df6",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "sites": [
       {
       "key": "豆豆",
-      "name": "🌹豆瓣┃爱尚🌹",
+      "name": "🌹豆瓣┃爱尚祝新年快乐龙年吉祥🌹",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
@@ -41,6 +41,15 @@
       "changeable": 0
     },
     {
+      "key": "酷看",
+      "name": "💡酷看┃App",
+      "type": 3,
+      "api": "csp_Kkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
       "type": 3,
@@ -49,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy66.com/"
+      "ext": "https://www.czzy55.com/"
     },
     {
       "key": "Xinsj",
@@ -1080,14 +1089,16 @@
     }
   ],
   "lives": [
+
     {
       "name": "春盈-爱尚",
       "type": 0,
       "url": "https://wds.ecsxs.com/230864.json",
       "ua": "okhttp/3.15",
       "playerType": 1,
-      "epg":"https://epg.112114.xyz/?ch={name}&date={date}"
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
     },
+
     {
       "name": "江西电信",
       "type": 0,
@@ -1107,7 +1118,7 @@
     {
       "name": "神仙天下",
       "type": 0,
-      "url": "http://www.liuyunw.com:88/zb.txt",
+      "url": "http://sx.liuyun.wang:88/zb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
