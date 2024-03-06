@@ -50,6 +50,15 @@
       "quickSearch": 0,
       "changeable": 0
     },
+     {
+      "key": "嘀嘀",
+      "name": "☀嘀嘀┃无广",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "酷看",
       "name": "💡酷看┃App",
