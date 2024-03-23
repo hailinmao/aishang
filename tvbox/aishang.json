@@ -1,10 +1,10 @@
 {
-  "spider": "./fty.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
+  "spider": "./fty.jar;md5;dd909349c70fe92e82470eba611b7094",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "sites": [
       {
       "key": "豆豆",
-      "name": "🌹豆瓣┃爱尚祝新年快乐龙年吉祥🌹",
+      "name": "🌹豆瓣┃爱尚影视🌹",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
