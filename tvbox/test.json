@@ -1,7 +1,18 @@
 {
-  "spider": "./pg.jar;md5;6a77140c25470026f08522e50103cf8d",
+ "spider":"./pg.jar;md5;63350ce21576e80ee520cefd4dc0401b",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "sites": [
+      {"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
+{"key":"lf_js_p2p","name":"磁力","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+","timeout":60},
+{"key":"lf_js_lf_live","name":"直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live1.txt"},
+{"key":"配置中心","name":"配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+{"key":"PushShare","name":"资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/pushshare.a.txt$$$db$$$1","style": {"type": "list"}},
+{"key":"PikPakShare","name":"PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/pikpakclass.a.json$$$./json/pikpakclass.a.json.db.gz"},
+{"key":"PikPakShare1","name":"PikPak1","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/pikpakclass.a1.json$$$./json/pikpakclass.a1.json.db.gz"},
+{"key":"PikPakShare18","name":"PikPak18","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/pikpakclass18.json$$$./json/pikpakclass.a.json.db.gz"},
+{"key":"SambaShare","name":"Samba分享","type":3,"api":"csp_SambaShare","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/sambashare.a.txt"},
+{"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy","style": {"type": "rect","ratio": 1.5}},
+
       {
       "key": "豆豆",
       "name": "🌹豆瓣┃爱尚祝新年快乐龙年吉祥🌹",
