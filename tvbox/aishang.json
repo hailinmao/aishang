@@ -1,10 +1,10 @@
 {
-  "spider": "./fty.jar;md5;29b4ef28be2f88e3ae3f37682e19e309",
+  "spider": "./fty.jar;md5;4af14dca6964a737a88b982cb8b20055",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "sites": [
       {
       "key": "豆豆",
-      "name": "🌹豆瓣┃爱尚影视2024413🌹",
+      "name": "🌹豆瓣┃爱尚影视2024424🌹",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
