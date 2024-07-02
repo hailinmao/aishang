@@ -1,6 +1,7 @@
 {
   "spider": "./fty.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
+  "logo":"./logo/aishang.png"
   "sites": [
       {
       "key": "豆豆",
