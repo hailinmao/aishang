@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;5640a8ad5bd5face5679bd8d6d73d44a",
+  "spider": "./fty.jar;md5;2c656ea3596df85712ab9839689aed16",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png",
   "sites": [
@@ -193,7 +193,7 @@
 
     },
 
-     {
+      {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -202,9 +202,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
@@ -246,8 +245,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -294,15 +293,24 @@
       "ext": "https://czzy.top/"
     },
     {
-      "key": "视觉",
-      "name": "👓视觉┃多线",
+      "key": "小点",
+      "name": "💥小点┃多线",
       "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
+      "api": "csp_Xdys",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "蛋蛋",
@@ -310,16 +318,6 @@
       "type": 3,
       "api": "csp_Cddys",
       "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -367,16 +365,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "小点",
-      "name": "💥小点┃多线",
-      "type": 3,
-      "api": "csp_Xdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     },
     {
       "key": "热播",
@@ -620,9 +608,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -635,8 +622,8 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -648,8 +635,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -661,8 +648,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -674,8 +661,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -687,8 +674,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -699,9 +686,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
     {
