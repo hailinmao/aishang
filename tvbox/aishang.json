@@ -965,9 +965,9 @@
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "虎牙轮播",
+      "name": "咪咕体育-移动线路",
       "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Fhuya.txt?ref=master",
+      "url": "./yidong.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
