@@ -965,9 +965,9 @@
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "咪咕体育-移动线路",
+      "name": "广东银河",
       "type": 0,
-      "url": "./yidong.txt",
+      "url": "https://gitlink.org.cn/api/hailin/yd/raw/tvbox/广东银河?ref=master",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
