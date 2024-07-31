@@ -955,6 +955,7 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
        "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+      }
     {
            "name": "转播IPV6-2",
       "type": 0,
@@ -962,6 +963,7 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    }
     {
            "name": "悦婵IPTV-3",
       "type": 0,
@@ -969,6 +971,7 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
        "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    }
     {
       "name": "",
       "type": 0,
@@ -995,7 +998,6 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
     {
       "name": "江西移动",
@@ -1004,7 +1006,6 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }
   ]
 }
