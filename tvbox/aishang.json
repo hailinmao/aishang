@@ -562,7 +562,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
     },
