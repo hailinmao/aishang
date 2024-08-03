@@ -1,4 +1,4 @@
-ad615b55e9e3e914b7145e40b17f85d7
+ed2156d673172b89199f8fe237985414
 c895f118dbcc7954f8898255f4d8d94a
 ffec9391df1d37881754378a97c9365e
 https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/通知.txt?ref=master
