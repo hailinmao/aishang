@@ -1,11 +1,11 @@
 {
-  "spider": "https://gitee.com/hailin886/fty/raw/master/tvbox/fty.jar;md5;71d846866f2ceb9666ba114e5963983f",
+  "spider": "https://gitee.com/hailin886/fty/raw/master/tvbox/fty.jar;md5;md5;a509c54dbfed19222e5b799a1fa86ad4",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
   "sites": [
       {
       "key": "豆豆",
-      "name": "公众号:月牙猫┃看奥运,请到公众号下载新版爱尚影视",
+      "name": "公众号:月牙猫┃20240805,请到公众号下载新版爱尚影视",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
