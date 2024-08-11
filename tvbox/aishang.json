@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/hailin886/fty/raw/master/tvbox/fty.jar;md5;6569779195625775f841ee964e8cec56",
+  "spider": "./fty.jar?ref=master;md5;67d1780ee22d022e0551fb8de5db17b6",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
   "sites": [
