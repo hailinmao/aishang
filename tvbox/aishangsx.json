@@ -5,7 +5,7 @@
   "sites": [
       {
       "key": "豆豆",
-      "name": "公众号:月牙猫┃20240811,请到公众号下载新版爱尚影视",
+      "name": "公众号:月牙猫┃爱尚影视-神仙版,请到公众号下载新版爱尚影视",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
@@ -934,7 +934,15 @@
     }
   ],
   "lives": [
-
+  {
+      "name": "神仙-爱尚",
+      "type": 0,
+       "url": "http://110.40.33.162:88/zb.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "春盈-爱尚-IJK",
       "type": 0,
