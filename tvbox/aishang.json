@@ -973,6 +973,15 @@
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
+        {
+           "name": "芸夕iptv",
+      "type": 0,
+      "url": "https://raw.gitcode.com/yaoaihkj/yunxi/raw/main/%E6%A2%A6de%E5%9B%BD%E5%BA%A6.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+
       {
            "name": "悦婵IPTV-3",
       "type": 0,
