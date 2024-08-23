@@ -997,6 +997,13 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
+         {
+           "name": "广东吉林",
+      "type": 0,
+      "url": "./广东加吉林地方台.txt?ref=master",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
     {
            "name": "转播IPV6-2",
       "type": 0,
