@@ -1,2 +1,2 @@
-timeout=0
+timeout=90
 txt=公众号：月牙猫 , 爱尚影视永久免费,下载地址:https://pan.quark.cn/s/0af944393d7a
