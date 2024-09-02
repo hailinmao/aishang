@@ -1032,9 +1032,9 @@
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
          {
-           "name": "广东吉林",
+           "name": "test",
       "type": 0,
-      "url": "./广东加吉林地方台.txt?ref=master",
+      "url": "https://gitee.com/hailin886/aishangtv6/raw/master/tvbox/test.json",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
