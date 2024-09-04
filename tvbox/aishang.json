@@ -1,11 +1,11 @@
 {
-  "spider": "./fty.jar?ref=master;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+  "spider": "https://gitee.com/hailin886/aishangtv6/raw/master/tvbox/fty.jar;764421b45d9fff19a772e8366c64c5e5",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
   "sites": [
       {
       "key": "豆豆",
-      "name": "公众号:月牙猫┃QQ群:767923111,2024828更新线路",
+      "name": "公众号:月牙猫┃QQ群:767923111,20240905更新线路",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
@@ -1016,14 +1016,6 @@
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
 
-      {
-           "name": "悦婵IPTV-3",
-      "type": 0,
-      "url": "https://iptv.b2og.com/txt/ycl_iptv.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-    },
          {
            "name": "转播IPV6-1",
       "type": 0,
