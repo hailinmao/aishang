@@ -992,7 +992,7 @@
   {
       "name": "神仙-爱尚",
       "type": 0,
-       "url": "http://110.40.33.162:88/zb.txt",
+       "url": "http://pt.sxtv.top:66/live.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
@@ -1001,7 +1001,7 @@
       {
       "name": "神仙-爱尚-exo",
       "type": 0,
-       "url": "http://110.40.33.162:88/zb.txt",
+       "url": "http://pt.sxtv.top:66/live.txt",
       "ua": "okhttp/3.15",
       "playerType": 2,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
