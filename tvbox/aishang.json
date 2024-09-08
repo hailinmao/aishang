@@ -1,8 +1,7 @@
 {
   "spider": "./fty.jar?ref=master;md5;329e914a90b0bb5c7cb69b0eaec19700",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
-  //"logo":"./aishang.png?ref=master",
-    "logo":"https://cdn4.codesign.qq.com/materials/2024/09/08/dGZQN24G3lk409xm6jX08/tyb9dxqfvsjam24q/7693b66f-d047-4d69-9b95-353e982c9341.png",
+  "logo":"./aishang.png?ref=master",
   "sites": [
       {
       "key": "豆豆",
