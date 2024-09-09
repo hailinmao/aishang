@@ -18,8 +18,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://gitee.com/hailin886/fty/raw/master/tvbox/xiqu.json",
-    "spider":"https://gitee.com/hailin886/fty/raw/master/tvbox/xiqu.jar"
+    "ext": "./xiqu.json?ref=master",
+    "spider":"./xiqu.jar?ref=master"
     },
     {
       "key": "南瓜",
