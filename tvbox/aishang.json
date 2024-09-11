@@ -1,11 +1,11 @@
 {
-  "spider": "./fty.jar?ref=master;md5;329e914a90b0bb5c7cb69b0eaec19700",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
   "sites": [
       {
       "key": "豆豆",
-      "name": "公众号:月牙猫┃QQ群:767923111,20240905更新线路",
+      "name": "豆豆|,爱尚影视20240911更新线路",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
