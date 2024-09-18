@@ -1,11 +1,11 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28",
+  "spider": "https://189.ly93.cc/aMZNrqNnYBFn/123751156490792650/fty.jar?q=dtgx4rAv-Tx1ZPTYIil2p0AhAncFMRCGeINjjo-ncEaoHqXHO1xluSBZPlkFhfS5;md5;8d7cdd390b32a57772e293584d4ff728",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
   "sites": [
     {
         "key": "豆豆",
-      "name": "公众号：月牙猫 | 爱尚影视",
+      "name": "公众号：月牙猫 | 爱尚影视 china",
       "type": 3,
       "api": "https://jihulab.com/su7/4k/-/raw/master/lab/drpy2.min.js",
       "searchable": 1,
