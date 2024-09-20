@@ -1,5 +1,5 @@
 {
-"spider": "./fty.jar?ref=master;md5;8d7cdd390b32a57772e293584d4ff728",
+"spider": "./fty.jar?ref=master;md5;050512c9db356ad449af9d37dde8c5f0",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
   "sites": [
@@ -193,7 +193,7 @@
       ]
 
     },
- {
+  {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -759,7 +759,6 @@
       "changeable": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     }
-   
     
   ],
  
