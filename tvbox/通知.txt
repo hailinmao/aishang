@@ -1,2 +1,2 @@
-timeout=10
+timeout=0
 txt=公众号：月牙猫 , 爱尚直播已更新6.6.3,下载地址:https://pan.quark.cn/s/0af944393d7a
