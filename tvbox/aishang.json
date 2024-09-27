@@ -811,9 +811,9 @@
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
             {
-           "name": "zlive",
+           "name": "test",
       "type": 0,
-      "url": "./zlive.txt?ref=master",
+      "url": "./cytx.txt?ref=master",
       "ua":"okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
