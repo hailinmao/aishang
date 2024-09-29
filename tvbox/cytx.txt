@@ -84,4 +84,4 @@ TVB星河,mitv://135.148.104.228:19806/afcbb73766d64754bd8d35fc330aae1c
 黄金翡翠台,mitv://135.148.104.228:19806/99b70f5afa114465aa463db0cfed6569
 ViuTVsix,mitv://135.148.104.228:19806/ea75ceca822f454bb858845559d5fc55
 
-fd,https://stream1.freetv.fun/cbc18c441841a3f6774b895ef560a5d3e5d21ef76b9ae56ba73af893a29862cb.ctv
+fd,https://stream1.freetv.fun/6f34e37c3fbe50ddac7750f4c50f90817693cd2b1f6a037ffdd19a1502521eed.ctv
