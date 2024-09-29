@@ -32,7 +32,8 @@
 凤凰香港频道,http://60.164.229.91:4040/rtp/239.255.30.123:8231
 凤凰香港频道,http://223.19.212.121:20121/bysid/256
 凤凰香港频道,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
-
+非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞HD,rtmp://twcdn.top/sat/tv581
 香港环球卫视,rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
 
 无线新闻频道,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
@@ -50,7 +51,10 @@ TVB Plus香港,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
 星空卫视频道,http://171.213.196.163:8888/rtp/239.93.0.156:2193?Cf=cfss.cc
 星空卫视频道,http://171.213.196.163:8888/rtp/239.93.1.10:2193?Cf=cfss.cc
-
+緯來體育,rtmp://f13h.mine.nu/sat/tv771
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+緯來體育,rtmp://twcdn.top/sat/tv721
 无线新闻台,mitv://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 港台电视31,mitv://135.148.104.228:19806/c7cd517a9e5b44a9b6037c90f998627f
 港台电视32,mitv://135.148.104.228:19806/8ef4a2b7bac54aba8b17dfd2071df91f
@@ -345,8 +349,7 @@ Taiwan Plus[geo-blocked],https://stream1.freetv.fun/ecfed8f20ec485a2af04f088f04b
 鏡新聞,https://stream1.freetv.fun/c173b772297d53c3f72dcf7b7e265b8d5302dde20bf254add3b06e7222484668.ctv
 靖天資訊,https://stream1.freetv.fun/266757bd8783307a7129774a0a81c9192c7410f7e4d430c8243e9a1126cdd149.ctv
 非凡商業,https://stream1.freetv.fun/dc9b512164bb22475741242dac81e669b2e67969616bb434549ac5a9f0e882ae.ctv
-非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
-非凡新聞HD,rtmp://twcdn.top/sat/tv581
+
 非凡新聞HD,https://stream1.freetv.fun/b681bc4d3688e04bd8b32e0c08f156a81139d8f0d1f298fba56f98307c80a3d1.ctv
 奧運,#genre#
 ELTA 奧運7,https://stream1.freetv.fun/a3f7b0886396e045987e048ef36063207e6a743db18c6d6df951227d39034a24.m3u8
@@ -408,8 +411,4 @@ NBA頻道,https://stream1.freetv.fun/e6626e2cbbaa382a63813aa7d2784478d46f6404f95
 博斯高球,https://stream1.freetv.fun/de0d042b097e7a58fe91f1d09d41eb7ad1cefcfd098f8994ed61c52dc3ea0311.ctv
 博斯魅力,https://stream1.freetv.fun/d0a55ebd94704550a8829af614be853a6adf87548db2ca2eac7de978a0007eaa.ctv
 智林體育,https://stream1.freetv.fun/20ab72788256769459b864b76beadac93154f88753e43a9e1b1d7e4aded586dd.ctv
-緯來體育,rtmp://f13h.mine.nu/sat/tv771
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-緯來體育,https://stream1.freetv.fun/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.ctv
-緯來體育,rtmp://twcdn.top/sat/tv721
+
