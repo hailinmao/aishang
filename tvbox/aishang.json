@@ -804,9 +804,9 @@
 		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
         {
-           "name": "芸夕iptv",
+           "name": "湾湾线路",
       "type": 0,
-      "url": "https://gitcode.net/maohailin_/tvbox/-/raw/main/yunxi.txt",
+      "url": "./zlive.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
@@ -826,7 +826,7 @@
       "type": 0,
       "url": "https://m3u.ibert.me/txt/y_g.txt",
       "ua": "okhttp/3.15",
-      "playerType": 1,
+      "playerType": 2,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
    
     {
