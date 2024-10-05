@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar?ref=master;md5;3d161697458ecbcd2651a749db761ba1",
+  "spider": "./fty.jar?ref=master;md5;74a1bf23b9d08ad9f3483d1d73105a93",
  // "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
   "logo":"./aishang.png?ref=master",
@@ -194,7 +194,7 @@
       ]
 
     },
-  {
+{
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -282,7 +282,6 @@
       "name": "🍓糯米┃秒播",
       "type": 3,
       "api": "csp_Nmyswv",
-      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -301,20 +300,50 @@
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCz",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys.pro/"
+      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "原创",
       "name": "☀原创┃不卡",
       "type": 3,
       "api": "csp_YCyz",
-      "timeout": 15,
       "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "欢视",
+      "name": "👓欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -324,7 +353,6 @@
       "name": "📺热播┃多线",
       "type": 3,
       "api": "csp_AppTT",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -332,31 +360,10 @@
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃多线",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "可可",
       "name": "👻可可┃多线",
       "type": 3,
       "api": "csp_Kekys",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -391,8 +398,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/jp.js"
     },
     {
       "key": "比特",
@@ -464,8 +471,8 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/88看球.js",
       "style": {
         "type": "list"
       },
@@ -477,8 +484,8 @@
       "key": "310js",
       "name": "⚽ 310┃看球",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/310直播.js",
       "style": {
         "type": "list"
       },
@@ -490,8 +497,8 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/jrk.js",
       "style": {
         "type": "list"
       },
@@ -510,14 +517,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+      "ext": "./lib/企鹅直播.json"
     },
     {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -538,14 +545,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+      "ext": "./lib/MTV.json"
     },
     {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -559,8 +566,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -574,8 +581,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -601,14 +608,11 @@
       "key": "Sso",
       "name": "🐌盘他┃三盘",
       "type": 3,
-      "api": "csp_PanSso",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/盘他.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+      "changeable": 0
     },
     {
       "key": "夸搜",
@@ -674,7 +678,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+      "ext": "./lib/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -688,14 +692,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
+      "ext": "./lib/biliych.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -716,7 +720,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
+      "ext": "./lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -730,7 +734,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
+      "ext": "./lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -744,7 +748,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
+      "ext": "./lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -758,9 +762,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
+      "ext": "./lib/高中课堂.json"
     }
-    
   ],
  
   "lives": [
