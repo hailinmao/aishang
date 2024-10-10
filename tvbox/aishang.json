@@ -764,13 +764,13 @@
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
        {
-      "name": "春盈-爱尚-有台标-exo",
+      "name": "爱尚线路",
       "type": 0,
 
-        "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8Bds60.css?ref=master",
+        "url": "https://www.gitlink.org.cn/api/aishang/aishangtv5/raw/tvbox%2Faishanglive.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 2,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     "epg": "https://e.erw.cc/all.xml.gz",
 		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
 
