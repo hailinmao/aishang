@@ -26,7 +26,12 @@
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/0701phk72.m3u8
 凤凰香港,http://www.lebaobei.top:6868/udp/239.255.30.123:8231
-
+无线新闻频道,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+TVB Plus香港,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
+TVB 星河频01,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
+TVB 星河频02,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB 翡翠频道,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+明珠香港频道,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
 
 凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
 Plus综合,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
