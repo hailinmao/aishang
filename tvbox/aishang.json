@@ -6,7 +6,7 @@
   "sites": [
     {
         "key": "豆豆",
-      "name": "月牙猫 | 爱尚影视6.6.4 20241017 china",
+      "name": "公众号:月牙猫 ",
       "type": 3,
       "api": "https://jihulab.com/su7/4k/-/raw/master/lab/drpy2.min.js",
       "searchable": 1,
@@ -795,17 +795,17 @@
       "name": "春盈-爱尚",
       "type": 0,
 
-       "url": "https://www.gitlink.org.cn/api/hailin/cytx/raw/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8Bds60.css?ref=master",
+       "url": "http://120.24.204.74:1888/?explorer/share/file&hash=6e73to5sHzQmS_XTwuHKADArdreSMIcY7ETag4kdTaYfSAnV5rpNnMOv4l63yV5BZjk&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD665%E5%8A%A0%E5%AF%86.json",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
        {
-      "name": "爱尚线路",
+      "name": "豆直播-爱尚",
       "type": 0,
 
-        "url": "https://www.gitlink.org.cn/api/aishang/aishangtv5/raw/tvbox%2Faishanglive.txt?ref=master",
+        "url": "http://120.24.204.74:1888/?explorer/share/file&hash=b823fQkLeRjFS2znF_RAXeB5n6RPLXqqdsJG57uwHFwFGe5QRAfkM6CXyfgRONWRoB4&name=/%E8%B1%86%E7%9B%B4%E6%92%AD01.txt",
       "ua": "okhttp/3.15",
       "playerType": 2,
         "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
@@ -814,16 +814,7 @@
   {
       "name": "神仙-爱尚-无台标",
       "type": 0,
-       "url": "http://sx.sxtv.top/live.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
-   {
-      "name": "神仙-爱尚-测试",
-      "type": 0,
-       "url": "./shenxian.txt?ref=master",
+       "url": "http://110.40.39.202:66/live.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
@@ -832,41 +823,16 @@
         {
            "name": "湾湾线路",
       "type": 0,
-      "url": "./zlive.txt?ref=master",
+      "url": "http://aktv.top/live.txt",
       "ua": "okhttp/3.15",
       "playerType": 2,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
-            {
-           "name": "test",
-      "type": 0,
-      "url": "./cytx.txt?ref=master",
-      "ua":"okhttp/3.15",
-      "playerType": 2,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-    },
 
-
-         {
-           "name": "转播IPV6-1",
-      "type": 0,
-      "url": "https://m3u.ibert.me/txt/y_g.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 2,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
-   
-    {
-           "name": "转播IPV6-2",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-    },
     {
       "name": "江西电信",
       "type": 0,
-      "url": "./lib/dianxin8.txt?ref=master",
+      "url": "./lib/dianxin8.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
@@ -874,7 +840,7 @@
     {
       "name": "江西移动",
       "type": 0,
-      "url": "./lib/yidong8.txt?ref=master",
+      "url": "./lib/yidong8.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
