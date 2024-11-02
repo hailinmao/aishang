@@ -20,8 +20,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "./xiqu.json?ref=master",
-    "spider":"./xiqu.jar?ref=master"
+    "ext": "./xiqu.json",
+    "spider":"./xiqu.jar"
     },
  {
             "key": "非凡资源",
