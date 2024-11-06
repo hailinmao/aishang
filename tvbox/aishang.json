@@ -803,16 +803,13 @@
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "豆直播-爱尚",
-      "type": 0,
-
+      "name": "D佬直播",
         "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
         "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
        {
       "name": "豆直播-爱尚",
-      "type": 0,
 
         "url": "http://120.24.204.74:1888/?explorer/share/file&hash=b823fQkLeRjFS2znF_RAXeB5n6RPLXqqdsJG57uwHFwFGe5QRAfkM6CXyfgRONWRoB4&name=/%E8%B1%86%E7%9B%B4%E6%92%AD01.txt",
       "ua": "okhttp/3.15",
