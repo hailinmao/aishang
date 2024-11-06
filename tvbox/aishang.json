@@ -795,7 +795,8 @@
       "name": "春盈-爱尚",
       "type": 0,
 
-       "url": "http://120.24.204.74:1888/?explorer/share/file&hash=6e73to5sHzQmS_XTwuHKADArdreSMIcY7ETag4kdTaYfSAnV5rpNnMOv4l63yV5BZjk&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD665%E5%8A%A0%E5%AF%86.json",
+      // "url": "http://120.24.204.74:1888/?explorer/share/file&hash=6e73to5sHzQmS_XTwuHKADArdreSMIcY7ETag4kdTaYfSAnV5rpNnMOv4l63yV5BZjk&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD665%E5%8A%A0%E5%AF%86.json",
+            "url": "./aishanglive.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
