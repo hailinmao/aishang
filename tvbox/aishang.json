@@ -846,9 +846,9 @@
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
    {
-      "name": "神仙-爱尚-无台标",
+      "name": "test",
       "type": 0,
-       "url": "http://110.40.39.202:66/live.txt",
+       "url": "./aishanglive.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
