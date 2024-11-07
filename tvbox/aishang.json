@@ -1,8 +1,8 @@
 {
-  "spider": "./fty.jar?ref=master;md5;0f1d73221352f4e6b049b3291f96d75d",
+  "spider": "./fty.jar;md5;0f1d73221352f4e6b049b3291f96d75d",
  // "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727428271693/fan.txt;md5;3d161697458ecbcd2651a749db761ba1",
   "wallpaper": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730979615277/wallpaper_50.jpg",
-  "logo":"./aishang.png?ref=master",
+  "logo":"./aishang.png",
   "sites": [
     {
         "key": "豆豆",
