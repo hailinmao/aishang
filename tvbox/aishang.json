@@ -853,12 +853,19 @@
        {
       "name": "咪咕-爱尚",
 
+        "url": "https://cdn09022024.gitlink.org.cn/aishang/aishangtv5/raw/branch/master/tvbox/migu.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 2,
+        "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+ {
+      "name": "开心-爱尚",
+
         "url": "https://cdn09022024.gitlink.org.cn/aishang/aishangtv5/raw/branch/master/tvbox/kxzb.txt",
       "ua": "okhttp/3.15",
       "playerType": 2,
         "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
-
 
         {
            "name": "湾湾线路",
