@@ -871,7 +871,7 @@
         {
            "name": "湾湾线路",
       "type": 0,
-      "url": "http://aktv.top/live.txt",
+      "url": "https://cdn09022024.gitlink.org.cn/aishang/aishangtv5/raw/branch/master/tvbox/cytx.txt",
       "ua": "okhttp/3.15",
       "playerType": 2,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
