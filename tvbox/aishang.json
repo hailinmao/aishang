@@ -24,15 +24,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
-        {"key": "戏曲自定义",
-    "name": " 💖吾爱戏曲",
-    "type": 3,"api": "csp_Bili",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "./xiqu.json",
-    "spider":"./xiqu.jar"
+    {
+      "key": "戏曲自定义",
+      "name": " 💖吾爱戏曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://120.24.204.74:1888/?explorer/share/file&hash=f4f88XQ8OQZ0umWtOGTgscP2zSOG6_cKh7evKhNyxJ3XvfcBgwcTG9NncdLih4wsdTY&name=/xiqu.json",
+      "spider": "http://120.24.204.74:1888/?explorer/share/file&hash=d4409UwJIO5QTaZixpvMtf7RXbysw-s1dVW1YdGARj32ahzJ6NZWX3i6oVE-at9AJO8&name=/xiqu.jar"
     },
+        
  {
             "key": "非凡资源",
             "name": "影视 | 非凡资源",
