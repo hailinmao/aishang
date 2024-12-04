@@ -1,7 +1,5 @@
 {
-  //"spider": "https://git.acwing.com/hailin/aishangtv5/-/raw/master/tvbox/fty.jar;md5;4fedd98faf90e84f8cccf2e447e1f41f",
-  "spider": "http://156.236.72.224:1888/?explorer/share/file&hash=d8b2mWKWzFtqNQ00yvRczjpzN-aPDdzCoCaQGItV0aI0ehCEjOT6Q9mdZOH18Zw4_Ho&name=/fty.jar;md5;6c4ab3a9d232164c75534f9060506ee5",
-  // "spider": "https://mpimg.cn/down.php/6c4ab3a9d232164c75534f9060506ee5.jar;md5;6c4ab3a9d232164c75534f9060506ee5",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733131789935/fan.txt;md5;99b6c138ce197b9cd89ccf9dc26a37bc",
   "wallpaper": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730425129936/wallpaper_50.jpg",
   //"logo":"./aishang.png?ref=master",
   "logo": "https://cdn4.codesign.qq.com/materials/2024/09/08/dGZQN24G3lk409xm6jX08/tyb9dxqfvsjam24q/7693b66f-d047-4d69-9b95-353e982c9341.png",
@@ -23,8 +21,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://156.236.72.224:1888/?explorer/share/file&hash=c7afiyy1uFp5if92WXmZ2HxGZBvEPD5urDuRJLQsQS3FMmYrHGm76XMgvHho74F1hcY&name=/xiqu.json",
-      "spider": "http://156.236.72.224:1888/?explorer/share/file&hash=a2156QD12KIvvd_hGh11IOcFdvPCeTCytNpB2z30MrzdjlIq-21HEIB3IzvdjXJEoRc&name=/xiqu.jar"
+      "ext": "http://156.236.72.224:1888/?explorer/share/file&hash=c10atOnXWDijlLRDWrIOeX7LYkIiaPmByZZgTrWEFbfz1KwCY8B4zdsuzdpIOvy2UqU&name=/bili.json",
+      "jar": "http://156.236.72.224:1888/?explorer/share/file&hash=4ca4f8hFr0PYiY-lpDSJb-IT8S3f43ypnmcoMXudnKHsaZ7nUDPHDfidBgGc2x3pJ1o&name=/custom_spider.jar"
     },
    
     {
