@@ -17,12 +17,16 @@
       "key": "戏曲自定义",
       "name": " 💖吾爱戏曲",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Bin":
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://156.236.72.224:1888/?explorer/share/file&hash=c10atOnXWDijlLRDWrIOeX7LYkIiaPmByZZgTrWEFbfz1KwCY8B4zdsuzdpIOvy2UqU&name=/bili.json",
-      "jar": "http://156.236.72.224:1888/?explorer/share/file&hash=4ca4f8hFr0PYiY-lpDSJb-IT8S3f43ypnmcoMXudnKHsaZ7nUDPHDfidBgGc2x3pJ1o&name=/custom_spider.jar"
+       "jar": "http://156.236.72.224:1888/?explorer/share/file&hash=f523ki8lRPSDlrkzm0bxFVnOi9bFA4yZpHL3ooWXRZK0pjt5Ecwp6byulUfLbchMyXc&name=/custom_spider.jar;md5;a064a4307697852eb35452aa6e806341",
+      "ext":{ "json":"http://156.236.72.224:1888/?explorer/share/file&hash=c10atOnXWDijlLRDWrIOeX7LYkIiaPmByZZgTrWEFbfz1KwCY8B4zdsuzdpIOvy2UqU&name=/bili.json",
+       "type": "",
+        "cookie": ""
+      }
+     
     },
    
     {
