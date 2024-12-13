@@ -778,7 +778,7 @@
        {
       "name": "春盈-爱尚",
       "type": 0,
-      "url": "https://pan.xccld.icu/f/PeZsk/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD665%E5%8A%A0%E5%AF%86.json",
+      "url": "https://d.kstore.dev/download/4246/%E5%9B%BA%E5%AE%9A%E7%94%B5%E8%A7%86668.txt.css",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
@@ -787,7 +787,7 @@
      {
       "name": "春盈-爱尚EXO",
       "type": 0,
-     "url": "http://156.236.72.224:1888/?explorer/share/file&hash=595asIFXHO2vus_3L_reUl0D_bnCQQd2B-IM7RZvI3eaRPEG6cFa57OcrzpJak5D3E0&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD42%E5%8A%A0%E5%AF%86.json",
+     "url": "https://d.kstore.dev/download/4246/%E5%9B%BA%E5%AE%9A%E7%94%B5%E8%A7%86668.txt.css",
       "ua": "okhttp/3.15",
       "playerType": 2,
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
@@ -805,7 +805,7 @@
         {
       "name": "开心-爱尚",
       "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=b1e1fLq95oZVm8HSFqYp4iRq924fvNd7pON18FOWWS-RIxrsEhMQO2bbEzh1X9-VNJ4&name=/kxzb.txt",
+      "url": "http://ttkx.cc:55/lib/kx2024.txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
@@ -826,15 +826,7 @@
       //"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
    
-    {
-      "name": "豆直播-爱尚",
-      "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=6958LLQ1hSW06lLAcU9avg7e7JpHN_MxWrL9F1l4h-PXdXHioqiYiguDDg0MM19XhfQ&name=/%E8%B1%86%E7%9B%B4%E6%92%AD01.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
-      //"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-    },
+   
      {
       "name": "白白-爱尚",
       "type": 0,
@@ -845,12 +837,6 @@
       //"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
    
-     {
-      "name": "短剧",
-      "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=06daQLGDWearHH06iIiFVe0m6HQr_TlqShd12OwITZqA58ZsVj2MB9pRBqUqd8nBZpc&name=/duanju.txt",
-      "playerType": 2
-    },
        {
       "name": "D大佬直播",
       "type": 0,
@@ -876,19 +862,10 @@
       "url": "https://tv.iill.top/m3u/Live",
       "playerType": 2
     },
-
-    {
-      "name": "野火直播",
-      "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=2480XOxRTfS93EoEeB71V9MjceUFiNHMTIIQTeLF7F7xClQ_s7o8fQb_HVisPZQ4YR0&name=/yhzb.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
-    },
     {
       "name": "江西电信",
       "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=cd59eBCn720JzM6Zp7o3GvxkIFsN1AzZ2CbuBJFRKG8KmM7oug6Ou-86UpLMM8VDpZo&name=/dianxin.txt",
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734084485720/dianxin8%20(1).txt",
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
@@ -896,7 +873,7 @@
     {
       "name": "江西移动",
       "type": 0,
-      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=ac44ZtAZ7MOBJKND2i1RkrrOzxWg2aOvxDh3rt20yFgwNZSiEBhm8o-oPa-IqsE6-vY&name=/JXCMCC.txt",
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734084485898/yidong8%20(1).txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
